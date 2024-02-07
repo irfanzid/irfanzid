@@ -1,3 +1,5 @@
+<img align="right" alt="header" width="1000"  src="./github-header-image.png">
+
 <h1 align="center">Hi 👋, I'm Irfan Badriawan</h1>
 <h3 align="center">I'm a person who will keep learning</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMK8rgAWKq_P2LEFn9eHv2Vb71qRaewPaL1uG6UHeB4g&s">
